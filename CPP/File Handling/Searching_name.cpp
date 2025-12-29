@@ -1,3 +1,4 @@
+//To search a record using name from a data file
 #include<iostream>
 #include<fstream>
 #include<stdio.h>
