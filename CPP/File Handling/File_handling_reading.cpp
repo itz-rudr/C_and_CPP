@@ -1,5 +1,10 @@
 //To explain file handling in cpp
-//How to read a file
+/*How to read a file
+To read a file we can use two methods 
+first-> create a object of ifstream class and use the read function in it
+syntax--> ifstream f("abc.dat");
+		  class object("name of file of which data we need");
+*/
 #include<iostream>
 #include<fstream>
 using namespace std;
