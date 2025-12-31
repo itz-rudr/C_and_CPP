@@ -1,4 +1,4 @@
-//To explain file handling in cpp
+//To explain file handling in cpp / To write a data in a file
 /*
 File handling--> This is used to permanently store data in a file
 it performs various file operations such as
