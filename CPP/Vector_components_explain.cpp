@@ -13,8 +13,9 @@ int main(){
 	//iterator points to the 3rd element
 	it=v.begin()+2;
 	cout<<"v[2] = "<<*it<<endl;
-	//iterator points to the 3rd element
-	it=v.begin()-1;
+	//iterator points to the 4rd element
+	it=v.begin()+3;
+	cout<<"v[3] = "<<*it<<endl;
 	//iterator points to the last element
 	it=v.end()-1;
 	cout<<"v[4] = "<<*it<<endl;
