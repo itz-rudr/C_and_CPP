@@ -11,15 +11,15 @@ pop():- Deletes the most recent entered element of the stack
 #include<stack>
 using namespace std;
 int main(){
-	stack<int> s;
-	s.push(21);
-	s.push(22);
-	s.push(24);
-	s.push(25);
+	stack<int> stack;
+	stack.push(21);
+	stack.push(22);
+	stack.push(24);
+	stack.push(25);
 	int num=0;
-	s.push(num);
-	while(!s.empty()){
-		cout<<s.top()<<" "<<s.size()<<endl;
-		s.pop();
+	stack.push(num);
+	while(!stack.empty()){
+		cout<<stack.top()<<" "<<stack.size()<<endl;
+		stack.pop();
 	}
 }
