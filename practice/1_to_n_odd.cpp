@@ -1,4 +1,5 @@
 //To print odd numbers between 1 to n
+
 #include<stdio.h>
 int main(){
 	int i,n;
