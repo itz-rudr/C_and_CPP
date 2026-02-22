@@ -1,4 +1,5 @@
 //To print 1 to n using for loop
+
 #include<stdio.h>
 int main(){
 	int i,n;
