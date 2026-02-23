@@ -1,4 +1,5 @@
 //To find factorial of a number using function call case 4
+
 #include<stdio.h>
 int fact(int n){
 	int f=1;
