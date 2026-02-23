@@ -1,4 +1,5 @@
 //Factorail using function calling case 2
+
 #include<stdio.h>
 int fact(){
 	int a,factorial;
