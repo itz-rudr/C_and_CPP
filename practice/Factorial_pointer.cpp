@@ -1,4 +1,5 @@
 //Factorial of number using pointer
+
 #include<stdio.h>
 int main(){
 	int a,f=1,*p,*q;
