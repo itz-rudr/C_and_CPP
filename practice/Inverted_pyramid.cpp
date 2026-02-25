@@ -1,4 +1,5 @@
 //To print inverted pyramid
+
 #include<stdio.h>
 int main(){
 	int n;
