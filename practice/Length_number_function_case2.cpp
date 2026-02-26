@@ -1,4 +1,5 @@
 //To find length of number using function call case 2
+
 #include<stdio.h>
 int length(){
 	int n;
