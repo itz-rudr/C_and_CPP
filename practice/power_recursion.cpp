@@ -1,4 +1,5 @@
 //To find power of a number
+
 #include<stdio.h>
 int power(int n,int x){
 	int p;
