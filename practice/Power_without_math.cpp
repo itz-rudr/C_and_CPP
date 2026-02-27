@@ -1,4 +1,5 @@
 //Program for power without using pow function
+
 #include<stdio.h>
 int main(){
 	int x,n,i,p=1;
