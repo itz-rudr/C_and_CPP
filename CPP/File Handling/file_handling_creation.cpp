@@ -1,4 +1,5 @@
 //To explain file handling in cpp / To write a data in a file
+
 /*
 File handling--> This is used to permanently store data in a file
 it performs various file operations such as
@@ -10,6 +11,7 @@ to open a file --> class_name object("file name");
 				   ifstream f("abc.dat")
 				   for input stream
 */
+
 #include<iostream>
 #include<fstream>
 using namespace std;
