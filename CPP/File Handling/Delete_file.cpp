@@ -1,10 +1,12 @@
 //To delete a record from a file using file handling
+
 /*
 To delete a function there is a pre made function named remove.
 syntax:- remove("File name");
 To rename a file there is a pre made function named rename.
 syntax:- rename("file to be renamed","New name of file");
 */
+
 #include<iostream>
 #include<fstream>
 #include<stdio.h>
