@@ -1,5 +1,6 @@
 //To explain how to solve ambiguity error in multiple inheritance
 //Use ::->> scope resolution operator
+
 #include<iostream>
 using namespace std;
 class base1{
