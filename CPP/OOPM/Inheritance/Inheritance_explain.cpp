@@ -13,6 +13,7 @@ it works with the help of access modifiers.There are three of them:-
 2. protected:- only child class can access the data.
 3. private:- no one can access the data.
 */
+
 #include<iostream>
 using namespace std;
 class base{
