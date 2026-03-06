@@ -1,4 +1,5 @@
 //To add two time/hours using object and classes
+
 #include<iostream>
 using namespace std;
 class time{
