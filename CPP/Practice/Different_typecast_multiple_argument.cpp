@@ -1,4 +1,5 @@
 //To explain class template with multiple arguments and typecast them
+
 #include<iostream>
 using namespace std;
 template<class t,class u>
