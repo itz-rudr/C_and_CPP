@@ -1,4 +1,5 @@
 //to explain how to use a friend function
+
 #include<iostream>
 using namespace std;
 class complex{
