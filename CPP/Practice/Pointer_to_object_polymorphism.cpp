@@ -1,5 +1,6 @@
 //To explain polymorphism
 //Pointer to object
+
 #include<iostream>
 using namespace std;
 class test{
