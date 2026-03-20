@@ -1,4 +1,5 @@
 //To explain how to input records using static data member & function
+
 #include<iostream>
 using namespace std;
 class student{
