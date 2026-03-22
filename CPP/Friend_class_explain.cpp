@@ -1,4 +1,5 @@
 //To explain friend class
+
 #include<iostream>
 using namespace std;
 class test1{
