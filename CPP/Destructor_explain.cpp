@@ -4,6 +4,7 @@
    before it. It is declared in the public section. It can not be overloaded &
    there is no need of passing argument in it. It can be virtual.
 */
+
 #include<iostream>
 using namespace std;
 class test{
