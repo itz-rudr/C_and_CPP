@@ -2,6 +2,7 @@
 /*
 In this type of queue you can insert or delete from both ends
 */
+
 #include<iostream>
 #include<deque>
 using namespace std;
