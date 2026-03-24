@@ -1,4 +1,5 @@
 //To explain how to read a text file (character only)
+
 #include<iostream>
 #include<fstream>
 using namespace std;
