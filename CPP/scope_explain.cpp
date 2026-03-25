@@ -1,4 +1,5 @@
 //To explain scope resolutin operator in c++
+
 #include<iostream>
 using namespace std;
 int a=3;
