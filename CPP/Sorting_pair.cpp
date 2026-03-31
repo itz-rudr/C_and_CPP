@@ -1,4 +1,5 @@
 //Sort data according to first type if equal than second type
+
 #include<bits/stdc++.h>
 using namespace std;
 bool cmp(pair<int,string> p1,pair<int,string> p2){
