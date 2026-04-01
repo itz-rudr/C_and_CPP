@@ -7,6 +7,7 @@ top():- returns a reference to the top most element of the stack
 push(x):- Adds the element ' g ' at the top of the stack
 pop():- Deletes the most recent entered element of the stack
 */
+
 #include<iostream>
 #include<stack>
 using namespace std;
