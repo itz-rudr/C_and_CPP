@@ -4,6 +4,7 @@ A template in C++ is a feature that allows writing generic and reusable code.
 It enables you to create functions or classes that can work with any data type
 (int, float, char, user-defined types) without rewriting the same logic again.
 */
+
 #include<iostream>
 using namespace std;
 template<class t>
