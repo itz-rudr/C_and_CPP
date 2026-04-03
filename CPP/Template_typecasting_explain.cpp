@@ -1,5 +1,6 @@
 //To input two numbers using class template
 //To explain how to typecast in a template
+
 #include<iostream>
 using namespace std;
 template<class t>
