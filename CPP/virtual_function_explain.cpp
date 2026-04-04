@@ -1,4 +1,5 @@
 //To explain pure virtual function
+
 #include<iostream>
 using namespace std;
 class graphics{
