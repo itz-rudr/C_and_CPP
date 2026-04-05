@@ -1,4 +1,5 @@
 //To input and print n no.s using function
+
 #include "array.h"
 int main(){
 	int n,a[10];
