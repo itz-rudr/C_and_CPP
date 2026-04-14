@@ -1,4 +1,5 @@
 //To input and print matrix using pointer
+
 #include<stdio.h>
 int main(){
 	int m,n;
