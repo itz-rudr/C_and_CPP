@@ -1,4 +1,5 @@
 //To explain array of pointer
+
 #include<stdio.h>
 int main(){
 	int a,b,c,*p[10];
