@@ -1,4 +1,5 @@
 //To input and print n no.s using array pointer
+
 #include<stdio.h>
 int main(){
 	int n;
