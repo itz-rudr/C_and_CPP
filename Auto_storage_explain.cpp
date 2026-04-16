@@ -1,4 +1,5 @@
 //To explain auto storage class
+
 //Auto is predefined in c 
 #include<stdio.h>
 int main(){
