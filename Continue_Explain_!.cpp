@@ -1,4 +1,5 @@
 //To print value from 1 to 100 except 20 to 30.
+
 #include<stdio.h>
 int main(){
 	int i;
