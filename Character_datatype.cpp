@@ -1,4 +1,5 @@
 //To Explain character datatype
+
 #include<stdio.h>
 int main(){
 	//char from char
