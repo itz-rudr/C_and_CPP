@@ -1,4 +1,5 @@
 //To explain a function call by address or pointer
+
 #include<stdio.h>
 void swap(int *p,int *q){
 	int temp;
