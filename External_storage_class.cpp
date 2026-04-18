@@ -1,4 +1,5 @@
 //To explain external storage class
+
 #include<stdio.h>
 void fun();
 int main(){
