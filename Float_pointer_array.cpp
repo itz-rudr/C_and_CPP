@@ -1,4 +1,5 @@
 //To input float elements using pointer array
+
 #include<stdio.h>
 int main(){
 	int n;
