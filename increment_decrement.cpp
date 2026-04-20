@@ -1,4 +1,5 @@
 //to understand increment and decrement operator.
+
 #include<stdio.h>
 int main(){
 	int a=10;
