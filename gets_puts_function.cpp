@@ -1,4 +1,5 @@
 //To explain gets and puts function
+
 #include<stdio.h>
 int main(){
 	char a[10];
