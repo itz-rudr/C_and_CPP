@@ -6,6 +6,7 @@
   				(Even void) constructor can be overloaded and there a default 
 				argument if no argument is given.
 */
+
 #include<iostream>
 using namespace std;
 class fact{
