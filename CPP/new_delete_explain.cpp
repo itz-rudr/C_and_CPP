@@ -6,6 +6,7 @@ runtime from the heap and returns a pointer to the allocated memory.
 delete --> delete is a dynamic memory deallocation operator in C++.It is used 
 to free the memory that was previously allocated using the new operator.
 */
+
 #include<iostream>
 using namespace std;
 class vector{
