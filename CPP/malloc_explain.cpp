@@ -5,6 +5,7 @@ It is a function in C (defined in <stdlib.h>) used to dynamically allocate memor
 at runtime. malloc() allocates a block of memory of a specified size (in bytes) 
 and returns a pointer to the beginning of that block.
 */
+
 #include<stdio.h>
 #include<malloc.h>
 int main(){
