@@ -5,6 +5,7 @@ It is a dynamic memory function in C (defined in <stdlib.h>) used to change
 the size of a memory block that was previously allocated using malloc(), calloc(), 
 or even an earlier realloc().
 */
+
 #include<stdio.h>
 #include<malloc.h>
 int main(){
