@@ -3,6 +3,7 @@
 It is type of datatype in which it is first in first out.
 Elements are inserted at the back(end) and are deleted from the front
 */
+
 #include<iostream>
 #include<queue>
 using namespace std;
