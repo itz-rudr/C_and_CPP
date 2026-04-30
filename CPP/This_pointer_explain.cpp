@@ -10,6 +10,7 @@
   5. Not available in static functions (because static 
      functions do not belong to objects)
 */
+
 #include<iostream>
 using namespace std;
 class test{
