@@ -1,4 +1,5 @@
 //To explain how to create array of object
+
 #include<iostream>
 using namespace std;
 class student{
