@@ -1,4 +1,5 @@
 //To explain private member function use in inheritance
+
 #include<iostream>
 using namespace std;
 class base{
