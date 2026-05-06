@@ -4,6 +4,7 @@
 free() is a function in C used to release the dynamically allocated memory 
 that was previously allocated using malloc(), calloc(), or realloc().
 */
+
 #include<stdio.h>
 #include<malloc.h>
 int main(){
